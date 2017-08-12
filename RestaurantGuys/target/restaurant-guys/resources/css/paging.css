@@ -1,0 +1,32 @@
+.pagination {
+	margin-top: 50px;
+	margin-right: auto;
+	float: right;
+	margin-right: 10px;
+	background-color: #FFFACD;
+}
+
+#previous {
+	font-size: 13px;
+	color: #008080;
+	font-style: inherit;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.number {
+	font-size: 13px;
+	padding-right: 5px;
+	color: #008080;
+	font-style: inherit;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#next {
+	color: #008080;
+	font-size: 13px;
+	font-style: inherit;
+	font-family: sans-serif;
+	font-weight: bold;
+}

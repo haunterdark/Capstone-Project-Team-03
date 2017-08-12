@@ -1,0 +1,109 @@
+#addnewtaikhoan {
+	width: 972px;
+	height: 800px;
+	margin-top: 0px;
+	background: transparent url(../images/taotaikhoan.png) no-repeat bottom;
+}
+
+.tittle1 {
+	margin-top: 20px;
+}
+
+.login .mess .errorn .erroru .errore .errorp .errora {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.h1 {
+	color: #FF6A6A;
+	text-align: center;
+	margin-bottom: 43px;
+	margin-top: 35px;
+	margin-left: 83px;
+	font-family: Lobster, sans-serif;
+	font-size: 32px;
+}
+
+.nuttaotk {
+	background: #ffffff;
+	color: #408080;
+	height: 55px;
+	margin-top: -92px;
+	margin-right: -213px;
+	float: right;
+	margin-right: -197px;
+}
+
+.nuttaotk:visited {
+	background: #008080;
+	color: #F8F8FF;
+}
+
+.addicon {
+	margin-right: -163px;
+	float: right;
+	margin-top: -57px;
+}
+
+.nuttaotk:active {
+	color: #ff0080;
+}
+
+.save {
+	margin-top: 30px;
+	margin-left: 393px;
+	float: left;
+	height: 45px;
+	width: 80px;
+	border: 1px solid #408080;
+}
+
+.nutreset {
+	margin-top: 30px;
+	margin-right: 390px;
+	float: right;
+	height: 45px;
+	width: 80px;
+	border: 1px solid #408080;
+}
+
+.imginput {
+	margin-left: -60px;
+	float: left;
+	margin-top: 39px;
+}
+
+.signup {
+	margin-bottom: 10px;
+	border-color: #009688;
+	border-radius: 5px;
+	margin: 12px;
+	width: 445px;
+	margin-right: 348px;
+	margin-top: 41px;
+	height: 30px;
+}
+
+.dangkithongtin {
+	margin-left: 262px;
+	margin-top: 40px;
+}
+
+.inputul {
+	margin-top: -31px;
+}
+
+.nuthuy {
+	margin-right: 283px;
+	margin: right;
+	margin-top: -45px;
+	height: 45px;
+	width: 80px;
+	border: 1px solid #408080;
+
+}
