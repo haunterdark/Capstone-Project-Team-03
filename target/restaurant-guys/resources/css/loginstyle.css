@@ -1,0 +1,166 @@
+body {
+	font-family: Arial, Tahoma;
+	font-size: 12px;
+	background: transparent url(../images/login.jpg) no-repeat fixed bottom;
+	/*  background-repeat: no-repeat; */ background-size : cover;
+	max-width: 100%;
+	min-width: 50%;
+	overflow: scroll;
+	background-size: cover;
+}
+
+.label {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+
+#dangnhap {
+	text-decoration: blink;
+	color: #008080;
+	font-size: 35px;
+	font-family: Lobster, sans-serif;
+	font-style: inherit;
+	text-align: right;
+	margin-right: 200px;
+}
+
+.login {
+	float: right;
+	margin-right: 30px;
+}
+
+.login .username, .login .password {
+	float: left;
+	margin-right: 15px;
+}
+
+.login .password {
+	width: 300px
+}
+
+.login div {
+	text-align: left;
+}
+
+.login .mess .error {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.login .mess .msg {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #31708f;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+	margin-top: 10px;
+}
+
+.button {
+	background: #008080;
+	padding: 5 8px;
+	text-decoration: blink;
+	font: bold 10px cursive;
+	color: #ffffff;
+	cursor: default;
+}
+
+.button:hover {
+	background: #008080;
+	color: #ff8000;
+}
+
+.button:visited {
+	background: #008080;
+	color: #ff8000;
+}
+
+.button:active {
+	color: white;
+}
+
+#dangky {
+	webkit-text-stroke: 1px black;
+	text-decoration: blink;
+	color: #ffff84;
+	font-size: 24px;
+	font-family: Lobster, sans-serif;
+	text-shadow: 3px 3px 0 #000, /* Simulated effect for Firefox and Opera
+       and nice enhancement for WebKit */
+   -1px -1px 0 #808080, 1px -1px 0 #808080, -1px 1px 0 #808080, 1px 1px
+		0 #808080;
+	font-style: inherit;
+	text-align: right;
+	margin-right: 217px;
+	margin-top: 145px;
+}
+
+ul.dangkyform {
+	-webkit-padding-start: 55px;
+	-webkit-padding-end: 14px;
+	background-color: #FFFACD;
+	border: 4px dotted #008080;
+	float: right;
+	margin-right: 41px;
+	width: 418px;
+	min-height: 212px;
+}
+
+.dangkyform .error1 .erroru {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.dangkyform .error1 .errorc {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+.dangkyform .error1 .success {
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #31708f;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+}
+
+.dangky li {
+	list-style: none;
+	webkit-margin-before: 0px;
+	margin-bottom: 30px;
+	border-bottom: 5px solid #999;
+}
+
+.buttondangky {
+	float: right;
+	font-size: 12px;
+	margin-right: -468px;
+	margin-top: 242px;
+	padding: 10px 16px;
+}
+
+.buttondangnhap {
+	float: right;
+	margin-right: 54px;
+	margin-top: -25px;
+	padding: 5px 8px;
+}
