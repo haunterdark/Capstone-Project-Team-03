@@ -1,0 +1,100 @@
+#Tinh {
+	height: 40px;
+	width: 95px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+#quan {
+	height: 40px;
+	width: 90px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+#status {
+	height: 40px;
+	width: 90px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+#input {
+	height: 33px;
+	width: 163px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+.Searchingnhahang {
+	margin-top: 70px;
+	width: 85%;
+	float: right;
+	margin-right: 26px;
+	margin-bottom: 40px;
+}
+
+.Searchingkhachhang {
+	margin-top: 70px;
+	width: 81%;
+	float: right;
+	margin-right: 8px;
+	margin-bottom: 75px;
+}
+
+.Searchingquangcao {
+	padding: 0;
+	margin: 55px auto;
+	width: 43%;
+	margin-right: 205px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+.Searchingdatcho {
+	padding: 0;
+	margin: 55px auto;
+	width: 43%;
+	margin-right: 205px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+.Searchingcampaign {
+	padding: 0;
+	margin: 55px auto;
+	width: 58%;
+	margin-right: 205px;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+.buttonsearch {
+	float: right;
+	margin-right: 126px;
+	margin-top: -1px;
+	padding: 0px 6px;
+	color: #60abc1;
+	height: 40px;
+	width: 55px;
+}
+
+#category {
+	height: 40px;
+	width: 90px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+#country {
+	height: 40px;
+	width: 90px;
+	border: ridge;
+	border-color: rgba(0, 128, 128, 0.37);
+}
+
+.buttonsearchcustomer {
+	margin-top: -1px;
+	float: right;
+	margin-right: 152px;
+}
