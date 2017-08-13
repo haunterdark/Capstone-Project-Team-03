@@ -15,7 +15,7 @@ public class CouponDao {
 	Util util = new Util();
 	Connection conn = null;
 	String userName = "root";
-	String password = "123456";
+	String password = "root";
 	String url = "jdbc:mysql://localhost:3306/capstone?useUnicode=yes&characterEncoding=UTF-8";
 
 	public boolean checkcodecoupon(String coupon_id, String username) {

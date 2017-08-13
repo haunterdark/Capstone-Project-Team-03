@@ -15,7 +15,7 @@ public class AdvertisementDao {
 	// Create database connection
 	Connection conn = null;
 	String userName = "root";
-	String password = "123456";
+	String password = "root";
 	String url = "jdbc:mysql://localhost:3306/capstone";
 	Util util = new Util();
 	RestaurantDao_Register register = new RestaurantDao_Register();

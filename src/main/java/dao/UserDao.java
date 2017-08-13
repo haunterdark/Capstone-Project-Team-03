@@ -11,7 +11,7 @@ public class UserDao {
 	// Create database connection
 		Connection conn = null;
 		String userName = "root";
-		String password = "123456";
+		String password = "root";
 		String url = "jdbc:mysql://localhost:3306/capstone?useUnicode=true&characterEncoding=UTF-8";
 
 		//Get username value

@@ -13,7 +13,7 @@ public class CampaignDaoAndroid {
 	// Create database connection
 	Connection conn = null;
 	String userName = "root";
-	String password = "123456";
+	String password = "root";
 	String url = "jdbc:mysql://localhost:3306/capstone";
 
 	public ArrayList<Campaign> PrintList() {

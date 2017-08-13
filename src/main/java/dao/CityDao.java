@@ -14,7 +14,7 @@ import entities.City;
 public class CityDao {
 	Connection conn = null;
 	String userName = "root";
-	String password = "123456";
+	String password = "root";
 	String url = "jdbc:mysql://localhost:3306/capstone?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true";
 
 	public List<City> loadlistCity() {
